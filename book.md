@@ -1,3 +1,9 @@
+---
+title: "The Ego and the Id"
+author: "Sigmund Freud"
+date: "1927"
+---
+
 # <!--p06-->TRANSLATOR'S NOTE
 
 *Das Ich und das Es* was published in 1923 by the Internationaler
