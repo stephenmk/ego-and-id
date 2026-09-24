@@ -771,11 +771,25 @@ owes its origin.
 
 Psycho-analysis has been reproached time after time with ignoring the
 higher, moral, spiritual side of human nature. The reproach is doubly
-unjust,
-
-<!--p47-->
-
-both historically and methodologically. For, in the first place, we have from the very beginning attributed the function of instigating repression to the moral and aesthetic tendencies in the ego, and secondly, there has been a general refusal to recognize that psycho-analytic research could not produce a complete and finished body of doctrine, like a philosophical system, ready-made, but had to find its way step by step along the path towards understanding the intricacies of the mind by making an analytic dissection of both normal and abnormal phenomena. So long as the study of the repressed part of the mind was our task, there was no need for us to feel any agitated apprehensions about the existence of the higher side of mental life. But now that we have embarked upon the analysis of the ego we can give an answer to all those whose moral sense has been shocked and who have complained that there must surely be a higher nature in man: ‘Very true,’ we can say, ‘and here we have that higher nature, in this ego-ideal or super-ego, the representative of our relation to our parents. When we were little children we knew these higher natures, we admired them and feared them; and later we took them into ourselves.’
+unjust, <!--p47-->both historically and methodologically. For, in the
+first place, we have from the very beginning attributed the function
+of instigating repression to the moral and aesthetic tendencies in the
+ego, and secondly, there has been a general refusal to recognize that
+psycho-analytic research could not produce a complete and finished
+body of doctrine, like a philosophical system, ready-made, but had to
+find its way step by step along the path towards understanding the
+intricacies of the mind by making an analytic dissection of both
+normal and abnormal phenomena. So long as the study of the repressed
+part of the mind was our task, there was no need for us to feel any
+agitated apprehensions about the existence of the higher side of
+mental life. But now that we have embarked upon the analysis of the
+ego we can give an answer to all those whose moral sense has been
+shocked and who have complained that there must surely be a higher
+nature in man: ‘Very true,’ we can say, ‘and here we have that higher
+nature, in this ego-ideal or super-ego, the representative of our
+relation to our parents. When we were little children we knew these
+higher natures, we admired them and feared them; and later we took
+them into ourselves.’
 
 The ego-ideal, therefore, is the heir of the <!--p48-->Oedipus complex
 and thus it is also the expression of the most powerful impulses and
