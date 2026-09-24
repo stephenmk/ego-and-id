@@ -1690,9 +1690,9 @@ valuing too cheaply the part played by Eros.
     fact, brought up as an objection against my description of the
     ‘dream-work’.
 
-[^10]: an Introduction’ (1914), *Collected Papers*, vol. iv.; and
-    *Group Psychology and the Analysis of the Ego* (1921), London,
-    1922.
+[^10]: ‘On Narcissism: an Introduction’ (1914), *Collected Papers*,
+    vol. iv.; and *Group Psychology and the Analysis of the Ego*
+    (1921), London, 1922.
 
 [^11]: Except that I seem to have been mistaken in ascribing the
     function of testing the reality of things to this super-ego---a
