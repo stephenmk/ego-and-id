@@ -52,9 +52,7 @@ the other people.
 
 <!--p09-->
 
-# I
-
-## CONSCIOUSNESS AND THE UNCONSCIOUS
+# I. CONSCIOUSNESS AND THE UNCONSCIOUS
 
 In this preliminary chapter there is nothing new to be said and it
 will not be possible to avoid repeating what has often been said
@@ -224,8 +222,7 @@ single ray of light that penetrates the obscurity of depth-psychology.
 
 <!--p19-->
 
-# II
-## THE EGO AND THE ID
+# II. THE EGO AND THE ID
 
 Pathological research has centred our interest too exclusively on the
 repressed. We wish to know more about the ego, now that we know that
@@ -521,8 +518,7 @@ foremost a body-ego.
 
 <!--p34-->
 
-# III
-## THE EGO AND THE SUPER-EGO (EGO-IDEAL)
+# III. THE EGO AND THE SUPER-EGO (EGO-IDEAL)
 
 If the ego were merely the part of the id that is modified by the
 influence of the perceptual system, the representative in the mind of
@@ -896,9 +892,7 @@ painting is being fought out in the sky.
 
 <!--p54-->
 
-# IV
-
-## THE TWO CLASSES OF INSTINCTS
+# IV. THE TWO CLASSES OF INSTINCTS
 
 We have already said that, if the differentiation we have made of the
 mind into an id, an ego, and a super-ego represents any advance in our
@@ -1190,9 +1184,7 @@ mastering the tensions.
 
 <!--p68-->
 
-# V
-
-## THE SUBORDINATE RELATIONSHIPS OF THE EGO
+# V. THE SUBORDINATE RELATIONSHIPS OF THE EGO
 
 The complexity of our subject-matter must be an excuse for the fact
 that none of the chapter-headings of this book correspond entirely to
