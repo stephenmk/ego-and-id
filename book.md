@@ -329,18 +329,19 @@ Whereas the relation between external perceptions and the ego is quite
 perspicuous, that between internal perceptions and the ego requires
 special investigation. It gives rise once more to a doubt whether we
 are really justified in referring the whole of consciousness to the
-single superficial system Pcpt-Cs. Internal perceptions yield
-sensations of processes arising in the most diverse and certainly also
-in the deepest strata of the mental apparatus. Very little is known
-about these sensations and feelings; the best examples we have of them
-are still those belonging to the pleasure-pain series. They are more
-fundamental, more elementary, than perceptions arising externally and
-they can come into being even when consciousness is clouded. I have
-elsewhere expressed my views about their great economic significance
-and its metapsychological foundation. These sensations are
-multi-locular, like external perceptions; they may come from different
-places simultaneously and may thus have different or even opposite
-qualities.
+single superficial system Pcpt-Cs.
+
+Internal perceptions yield sensations of processes arising in the most
+diverse and certainly also in the deepest strata of the mental
+apparatus. Very little is known about these sensations and feelings;
+the best examples we have of them are still those belonging to the
+pleasure-pain series. They are more fundamental, more elementary, than
+perceptions arising externally and they can come into being even when
+consciousness is clouded. I have elsewhere expressed my views about
+their great economic significance and its metapsychological
+foundation. These sensations are multilocular, like external
+perceptions; they may come from different places simultaneously and
+may thus have different or even opposite qualities.
 
 Sensations of a pleasurable nature are not characterized by any
 inherently impelling quality, <!--p25-->whereas ‘painful’ ones possess
@@ -718,7 +719,7 @@ complex may, therefore, be taken to be the forming of a precipitate in
 the ego, consisting of these two identifications in some way combined
 together. This modification of the ego retains its special position;
 it stands in contrast to the other constituents of the ego in the form
-of an ego-ideal or super-ego.**
+of an ego-ideal or super-ego.*
 
 The super-ego is, however, not merely a deposit left by the earliest
 object-choices of the id; it also represents an energetic
@@ -1429,16 +1430,13 @@ towards others the more tyrannical, that is aggressive, he becomes in
 his ego-ideal. The ordinary view sees the situation the other way
 round: the standard set up by the ego-ideal seems to be the motive for
 the suppression of aggressiveness. The fact remains, however, as we
-have stated it: the
-
-<!--p80-->
-
-more a man controls his aggressiveness, the more intense become the
-aggressive tendencies of his ego-ideal against his ego. It is like a
-displacement, a turning round upon the self. But even ordinary normal
-morality has a harshly restraining, cruelly prohibiting quality. It is
-from this, indeed, that the conception arises of an inexorable higher
-being who metes out punishment.
+have stated it: the <!--p80-->more a man controls his aggressiveness,
+the more intense become the aggressive tendencies of his ego-ideal
+against his ego. It is like a displacement, a turning round upon the
+self. But even ordinary normal morality has a harshly restraining,
+cruelly prohibiting quality. It is from this, indeed, that the
+conception arises of an inexorable higher being who metes out
+punishment.
 
 I cannot go further in my consideration of these questions without
 introducing a fresh assumption. The super-ego arises, as we know, from
