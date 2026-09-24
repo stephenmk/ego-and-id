@@ -1,6 +1,4 @@
-<!--p06-->
-
-# TRANSLATOR'S NOTE
+# <!--p06-->TRANSLATOR'S NOTE
 
 *Das Ich und das Es* was published in 1923 by the Internationaler
 Psycho-analytischer Verlag, Vienna. I was able to discuss the
@@ -16,9 +14,7 @@ and discriminating exertions in aid of clear elucidation of the text.
 
 J. R.
 
-<!--p07-->
-
-# INTRODUCTION
+# <!--p07-->INTRODUCTION
 
 In my essay, *Beyond the Pleasure Principle*, published in 1920,[^1] I
 began the discussion of a train of thought, my personal attitude
@@ -50,9 +46,7 @@ now that these things have at last been overtaken, they appear to
 psycho-analysis in a different shape from that in which they appear to
 the other people.
 
-<!--p09-->
-
-# I. CONSCIOUSNESS AND THE UNCONSCIOUS
+# <!--p09-->I. CONSCIOUSNESS AND THE UNCONSCIOUS
 
 In this preliminary chapter there is nothing new to be said and it
 will not be possible to avoid repeating what has often been said
@@ -220,9 +214,7 @@ conclusions. Nevertheless, we must beware of ignoring this property,
 for in the last resort the quality of being conscious or not is the
 single ray of light that penetrates the obscurity of depth-psychology.
 
-<!--p19-->
-
-# II. THE EGO AND THE ID
+# <!--p19-->II. THE EGO AND THE ID
 
 Pathological research has centred our interest too exclusively on the
 repressed. We wish to know more about the ego, now that we know that
@@ -516,9 +508,7 @@ be unconscious. It is as if we were thus supplied with a proof of what
 we have just asserted of the conscious ego: that it is first and
 foremost a body-ego.
 
-<!--p34-->
-
-# III. THE EGO AND THE SUPER-EGO (EGO-IDEAL)
+# <!--p34-->III. THE EGO AND THE SUPER-EGO (EGO-IDEAL)
 
 If the ego were merely the part of the id that is modified by the
 influence of the perceptual system, the representative in the mind of
@@ -904,9 +894,7 @@ an end by rapid sublimation and identification, is now carried on in a
 higher region, like the Battle of the Huns which in Kaulbach's
 painting is being fought out in the sky.
 
-<!--p54-->
-
-# IV. THE TWO CLASSES OF INSTINCTS
+# <!--p54-->IV. THE TWO CLASSES OF INSTINCTS
 
 We have already said that, if the differentiation we have made of the
 mind into an id, an ego, and a super-ego represents any advance in our
@@ -1196,9 +1184,7 @@ purposes. Finally, as we have seen, the ego, by sublimating some of
 the libido for itself and its purposes, assists the id in its work of
 mastering the tensions.
 
-<!--p68-->
-
-# V. THE SUBORDINATE RELATIONSHIPS OF THE EGO
+# <!--p68-->V. THE SUBORDINATE RELATIONSHIPS OF THE EGO
 
 The complexity of our subject-matter must be an excuse for the fact
 that none of the chapter-headings of this book correspond entirely to
