@@ -83,7 +83,7 @@ pathological manifestations---necessitate this conclusion. Thus their
 psychology of consciousness is incapable of solving the problems of
 dreams and hypnosis.
 
-The term 'conscious' is, to start with, a purely descriptive one,
+The term ‘conscious’ is, to start with, a purely descriptive one,
 resting on a perception of the most direct and certain
 character. Experience shows, next, that a mental element (for
 instance, an idea) is not as a rule permanently conscious. On the
@@ -94,14 +94,14 @@ are easily brought about. What the idea was in the interval we do not
 know. We can say that it was *latent*, and by this we mean that it was
 *capable of becoming conscious* at any time. Or, if we say that it was
 *unconscious*, we are <!--p11-->giving an equally correct
-description. Thus 'unconscious' in this sense of the word coincides
-with 'latent and capable of becoming conscious'. The philosophers
-would no doubt object: 'No, the term unconscious does not apply here;
+description. Thus ‘unconscious’ in this sense of the word coincides
+with ‘latent and capable of becoming conscious’. The philosophers
+would no doubt object: ‘No, the term unconscious does not apply here;
 so long as the idea was in a state of latency it was not a mental
-element at all'. To contradict them at this point would lead to
+element at all’. To contradict them at this point would lead to
 nothing more profitable than a war of words.
 
-But we have arrived at the term or concept of 'unconscious' along
+But we have arrived at the term or concept of ‘unconscious’ along
 another path, by taking account of certain experiences in which mental
 dynamics play a part. We have found, that is, we have been obliged to
 assume, that very powerful mental processes or ideas exist---here a
@@ -236,8 +236,8 @@ end we have come to see that this quality itself is ambiguous.
 
 Now all our knowledge is invariably bound up with consciousness. Even
 knowledge of the Ucs can only be obtained by making it conscious. But
-stop, how is that possible? What does it mean when we say 'making it
-conscious'? How can that come about?
+stop, how is that possible? What does it mean when we say ‘making it
+conscious’? How can that come about?
 
 We already know the point from which we have to start in this
 connection. We have said that consciousness is the *superficies* of
@@ -269,10 +269,10 @@ remains unrecognized, whereas the latter (the PCs) has in addition
 been brought into connection with verbal images. This is the first
 attempt to find a distinguishing mark for the two systems, the PCs and
 the UCSs, other than their relation to consciousness. It would seem,
-then, that the question, 'How does a thing become conscious?' could be
-put more advantageously thus: 'How does a thing become preconscious?'
-And the answer would be: 'By coming into connection with the verbal
-images that correspond to it.'
+then, that the question, ‘How does a thing become conscious?’ could be
+put more advantageously thus: ‘How does a thing become preconscious?’
+And the answer would be: ‘By coming into connection with the verbal
+images that correspond to it.’
 
 These verbal images are memory-residues; they were at one time
 perceptions, and like all memory-residues they can become conscious
@@ -348,11 +348,11 @@ places simultaneously and may thus have different or even opposite
 qualities.
 
 Sensations of a pleasurable nature are not characterized by any
-inherently impelling quality, <!--p25-->whereas 'painful' ones possess
+inherently impelling quality, <!--p25-->whereas ‘painful’ ones possess
 this quality in a high degree. The latter impel towards change,
-towards discharge, and that is why we interpret 'pain' as implying a
+towards discharge, and that is why we interpret ‘pain’ as implying a
 heightening and pleasure a lowering of energetic cathexis. Suppose we
-describe what becomes conscious in the shape of pleasure and 'pain' as
+describe what becomes conscious in the shape of pleasure and ‘pain’ as
 an undetermined quantitative and qualitative element in the mind; the
 question then is whether that element can become conscious where it
 actually is, or whether it must first be transmitted into the system
@@ -363,7 +363,7 @@ undetermined element behaves like a repressed impulse. It can exert
 driving force without the ego noticing the compulsion. Not until there
 is resistance to the compulsion, and blocking of the
 discharge-reaction, does the undetermined element instantly become
-conscious as 'pain'. In the same way that tensions arising from
+conscious as ‘pain’. In the same way that tensions arising from
 physical need can remain unconscious, so also can physical pain---a
 thing intermediate between external and internal perception, which
 acts like an internal perception even when its source is in the
@@ -372,7 +372,7 @@ feelings only become conscious through reaching the system Pcpt; if
 the way forward is barred, they do not come into <!--p26-->being as
 sensations, although the undetermined element corresponding to them is
 the same as if they did. We then come to speak, in a condensed and not
-entirely correct manner, of 'unconscious feelings', keeping up an
+entirely correct manner, of ‘unconscious feelings’, keeping up an
 analogy with unconscious ideas which is not altogether
 justifiable. Actually the difference is that, whereas with Ucs *ideas*
 connecting-links must be forged before they can be brought into the
@@ -449,7 +449,7 @@ upon instinct. The ego represents what we call reason and sanity, in
 contrast to the id which contains the passions. All this falls into
 line with popular distinctions which we are all familiar with; at the
 same time, however, it is only to be regarded as holding good in an
-average or 'ideal' case.
+average or ‘ideal’ case.
 
 The functional importance of the ego is manifested in the fact that
 normally control over the approaches to motility devolves upon
@@ -479,7 +479,7 @@ own body.
 The ego is first and foremost a body-ego; it is not merely a surface
 entity, but it is itself the projection of a surface.[^8] If we wish
 to find an anatomical analogy for it we can easily identify it with
-the 'cortical homunculus' of the anatomists, which stands on its head
+the ‘cortical homunculus’ of the anatomists, which stands on its head
 in the cortex, sticks its heels into the air, faces backwards and, as
 we know, has its speech-area on the left-hand side.
 
@@ -508,7 +508,7 @@ that rank as exceptionally high ones---are unconscious and
 unconsciously produce effects of the greatest importance; the example
 of resistances remaining unconscious during analysis is therefore by
 no means unique. But this new discovery, which compels us, in spite of
-our critical faculties, to speak of an 'unconscious sense of guilt',
+our critical faculties, to speak of an ‘unconscious sense of guilt’,
 bewilders us far more than the other and sets us fresh problems,
 especially when we gradually come to see that in a great number of
 neuroses this unconscious sense of guilt plays a decisive economic
@@ -588,7 +588,7 @@ relations with it---at the cost, it is true, of acquiescing to a large
 extent in the id's experiences. When the ego assumes the features of
 the object, it forces itself, so to speak, upon the id as a
 love-object and tries to make good the loss of that object by saying,
-'Look, I am so like the object, you can as well love me'.
+‘Look, I am so like the object, you can as well love me’.
 
 The transformation of object-libido into narcissistic libido which
 thus takes place obviously <!--p38-->implies an abandonment of sexual
@@ -734,7 +734,7 @@ reaction-formation against those choices. Its relation to the ego is
 not exhausted by the precept: ‘You *ought to be* such and such (like
 your father)’; it also comprises the prohibition: ‘You must not be
 such and such (like your father); that is, you may not do
-<!--p45-->all that he does ; many things are his prerogative '. This
+<!--p45-->all that he does ; many things are his prerogative’. This
 double aspect of the ego-ideal derives from the fact that the
 ego-ideal had the task of effecting the repression of the Oedipus
 complex, indeed, it is to that revolutionary event that it owes its
@@ -779,7 +779,7 @@ unjust,
 
 <!--p47-->
 
-both historically and methodologically. For, in the first place, we have from the very beginning attributed the function of instigating repression to the moral and aesthetic tendencies in the ego, and secondly, there has been a general refusal to recognize that psycho-analytic research could not produce a complete and finished body of doctrine, like a philosophical system, ready-made, but had to find its way step by step along the path towards understanding the intricacies of the mind by making an analytic dissection of both normal and abnormal phenomena. So long as the study of the repressed part of the mind was our task, there was no need for us to feel any agitated apprehensions about the existence of the higher side of mental life. But now that we have embarked upon the analysis of the ego we can give an answer to all those whose moral sense has been shocked and who have complained that there must surely be a higher nature in man: 'Very true,' we can say, 'and here we have that higher nature, in this ego-ideal or super-ego, the representative of our relation to our parents. When we were little children we knew these higher natures, we admired them and feared them; and later we took them into ourselves.'
+both historically and methodologically. For, in the first place, we have from the very beginning attributed the function of instigating repression to the moral and aesthetic tendencies in the ego, and secondly, there has been a general refusal to recognize that psycho-analytic research could not produce a complete and finished body of doctrine, like a philosophical system, ready-made, but had to find its way step by step along the path towards understanding the intricacies of the mind by making an analytic dissection of both normal and abnormal phenomena. So long as the study of the repressed part of the mind was our task, there was no need for us to feel any agitated apprehensions about the existence of the higher side of mental life. But now that we have embarked upon the analysis of the ego we can give an answer to all those whose moral sense has been shocked and who have complained that there must surely be a higher nature in man: ‘Very true,’ we can say, ‘and here we have that higher nature, in this ego-ideal or super-ego, the representative of our relation to our parents. When we were little children we knew these higher natures, we admired them and feared them; and later we took them into ourselves.’
 
 The ego-ideal, therefore, is the heir of the <!--p48-->Oedipus complex
 and thus it is also the expression of the most powerful impulses and
@@ -1168,7 +1168,7 @@ principle of constant equilibrium, it consists of a continuous descent
 towards death; but the falling of the level is delayed and fresh
 tensions are introduced by the claims of Eros, of the sexual
 instincts, as expressed in instinctual needs. The id, guided by the
-pleasure-principle, that is, by the perception of 'pain', guards
+pleasure-principle, that is, by the perception of ‘pain’, guards
 itself against these tensions in <!--p67-->various ways. It does so in
 the first place by complying as swiftly as possible with the demands
 of the non-desexualized libido, i.e. by striving for the gratification
@@ -1453,7 +1453,7 @@ power to bind the whole of the destructive elements that were
 previously combined with it, and these are released in the form of
 inclinations to aggression and destruction. This defusion would be the
 source of the general character of harshness and cruelty exhibited by
-the ideal---its dictatorial 'Thou shalt'.
+the ideal---its dictatorial ‘Thou shalt’.
 
 Let us again consider the obsessional neurosis for a moment. The state
 of affairs is different here. The defusion of love into aggressiveness
@@ -1557,8 +1557,8 @@ threatened the ego with castration, and this dread of castration is
 probably the kernel round which the subsequent fear of conscience has
 gathered; it is this dread that persists as the fear of conscience.
 
-The high-sounding phrase, 'Every fear is ultimately the fear of
-death', has hardly any meaning; at any rate it cannot be justified. It
+The high-sounding phrase, ‘Every fear is ultimately the fear of
+death’, has hardly any meaning; at any rate it cannot be justified. It
 seems to me, on the contrary, perfectly correct to distinguish the
 fear of death from dread of an external object (objective anxiety) and
 from neurotic libidinal anxiety. It presents a difficult problem to
@@ -1614,8 +1614,8 @@ valuing too cheaply the part played by Eros.
 [^1]: *Beyond the Pleasure Principle*, London, 1922; translated from
     *Jenseits des Lustprinzips*, Vienna, 1920.
 
-[^2]: This may be compared with my ' Note on the Unconscious in
-    Psycho-Analysis' (1912), *Collected Papers*, vol. iv. A new turn
+[^2]: This may be compared with my ‘Note on the Unconscious in
+    Psycho-Analysis’ (1912), *Collected Papers*, vol. iv. A new turn
     taken by criticisms of the unconscious deserves consideration at
     this point. Many investigators, who do not refuse to recognize the
     facts of psycho-analysis but who are unwilling to accept the
@@ -1628,7 +1628,7 @@ valuing too cheaply the part played by Eros.
     those that are most faintly conscious are, it is argued, the ones
     to which psycho-analysis wishes to apply the unsuitable name
     unconscious. These, however (the argument proceeds), are also
-    conscious or ' in consciousness' just as much as the others, and
+    conscious or ‘in consciousness’ just as much as the others, and
     can be made fully and intensely conscious if sufficient attention
     is paid to them.
 
@@ -1636,10 +1636,10 @@ valuing too cheaply the part played by Eros.
     a question of this kind which is based either on a convention or on
     emotional factors, we may make the following comments. The reference
     to gradations of clarity in consciousness is in no way conclusive and
-    has no more evidential value than such analogous statements as: 'There
+    has no more evidential value than such analogous statements as: ‘There
     are so many gradations in illumination---from the brightest and most
     dazzling light to the dimmest glimmer---that we may conclude that there
-    is no such thing as darkness at all'; or, 'There are varying degrees
+    is no such thing as darkness at all’; or, ‘There are varying degrees
     of vitality, consequently there is no such thing as death’. Such
     statements may in a certain sense have a meaning, but for practical
     purposes they are worthless. This will be seen if one proceeds to draw
@@ -1668,7 +1668,7 @@ valuing too cheaply the part played by Eros.
 
 [^4]: *Beyond the Pleasure Principle*.
 
-[^5]: 'The Unconscious' (1915), *Collected Papers*, vol. iv.
+[^5]: ‘The Unconscious’ (1915), *Collected Papers*, vol. iv.
 
 [^6]: G. Groddeck, *Das Buch vom Es*, Vienna, 1923.
 
@@ -1676,9 +1676,9 @@ valuing too cheaply the part played by Eros.
     habitually used this grammatical term for whatever in our nature
     is impersonal and, so to speak, subject to natural law.
 
-    [For the German '*Es*', which means literally 'it', the corresponding
-    Latin word 'id' has been adopted on the analogy of 'ego' which is the
-    accepted rendering of the German '*Ich*' (literally 'I').---TRANS.]
+    [For the German ‘*Es*’, which means literally ‘it’, the corresponding
+    Latin word ‘id’ has been adopted on the analogy of ‘ego’ which is the
+    accepted rendering of the German ‘*Ich*’ (literally ‘I’).---TRANS.]
 
 [^8]: [*I.e.* the ego is ultimately derived from bodily sensations,
     chiefly from those springing from the surface of the body. It may
@@ -1688,9 +1688,9 @@ valuing too cheaply the part played by Eros.
 
 [^9]: I was quite recently told an instance of this which was, in
     fact, brought up as an objection against my description of the
-    'dream-work'.
+    ‘dream-work’.
 
-[^10]: an Introduction' (1914), *Collected Papers*, vol. iv.; and
+[^10]: an Introduction’ (1914), *Collected Papers*, vol. iv.; and
     *Group Psychology and the Analysis of the Ego* (1921), London,
     1922.
 
@@ -1699,12 +1699,12 @@ valuing too cheaply the part played by Eros.
     point which needs correction. The view that the testing of reality
     is rather one of the functions of the ego itself would fit in
     perfectly with what we know of the relations of the ego to the
-    world of perception. Some earlier suggestions about a 'nucleus of
-    the ego', never very definitely formulated, also require to be put
+    world of perception. Some earlier suggestions about a ‘nucleus of
+    the ego’, never very definitely formulated, also require to be put
     right, since the system Pcpt-Cs alone can be regarded as the
     nucleus of the ego.
 
-[^12]: 'Mourning and Melancholia' (1917), *Collected Papers*, vol. iv.
+[^12]: ‘Mourning and Melancholia’ (1917), *Collected Papers*, vol. iv.
 
 [^13]: An interesting parallel to the replacement of object-choice by
     identification is to be found in the belief of primitive peoples,
@@ -1721,10 +1721,10 @@ valuing too cheaply the part played by Eros.
     must recognize the id as the great reservoir of libido mentioned
     in my introductory paper on narcissism (*Collected Papers*,
     vol. iv.). The libido which flows into the ego owing to the
-    identifications described above brings about its 'secondary
-    narcissism'.
+    identifications described above brings about its ‘secondary
+    narcissism’.
 
-[^15]: Perhaps it would be safer to say 'with the parents'; for before
+[^15]: Perhaps it would be safer to say ‘with the parents’; for before
     a child has arrived at definite knowledge of the difference
     between the sexes, the missing penis, it does not distinguish in
     value between its father and its mother. I recently came across
@@ -1745,8 +1745,8 @@ valuing too cheaply the part played by Eros.
 [^18]: I am at the moment putting science and art on one side.
 
 [^19]: Cf. *Group Psychology and the Analysis of the Ego*; and
-    'Certain Neurotic Mechanisms in Jealousy, Paranoia and
-    Homosexuality' (1922), *Collected Papers*, vol. ii.
+    ‘Certain Neurotic Mechanisms in Jealousy, Paranoia and
+    Homosexuality’ (1922), *Collected Papers*, vol. ii.
 
 [^20]: *Beyond the Pleasure Principle*.
 
@@ -1756,7 +1756,7 @@ valuing too cheaply the part played by Eros.
 
 [^22]: It may be said that the psycho-analytical or metapsychological
     ego stands on its head no less than the anatomical ego---the
-    'cortical homunculus'.
+    ‘cortical homunculus’.
 
 [^23]: The battle with the obstacle of an unconscious sense of guilt
     is not made easy for the analyst. Nothing can be done against it
@@ -1764,7 +1764,7 @@ valuing too cheaply the part played by Eros.
     unmasking its unconscious repressed roots, and of thus gradually
     changing it into a conscious sense of guilt. One has a special
     opportunity for influencing it when this Ucs sense of guilt is a
-    'borrowed' one, *i.e.* when it is the product of an identification
+    ‘borrowed’ one, *i.e.* when it is the product of an identification
     with some other person who was once the object of an erotic
     cathexis. When the sense of guilt has been adopted in this way it
     is often the sole remaining trace of the abandoned love-relation
