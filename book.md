@@ -29,10 +29,10 @@ connection with various facts observed in psycho-analysis and have
 endeavoured to draw fresh conclusions from the combination; in the
 present work, however, no further contributions are levied from
 biology, and it consequently stands in a closer relation to
-psycho-analysis than does Beyond the Pleasure Principle. The thoughts
-contained in it are synthetic rather than speculative in character and
-their aim appears to be an ambitious one. I am aware, however, that
-they do not go beyond the baldest outlines and I am
+psycho-analysis than does *Beyond the Pleasure Principle*. The
+thoughts contained in it are synthetic rather than speculative in
+character and their aim appears to be an ambitious one. I am aware,
+however, that they do not go beyond the baldest outlines and I am
 <!--p08-->perfectly content to recognize their limitations in this
 respect.
 
@@ -91,9 +91,9 @@ contrary, a state of consciousness is characteristically very
 transitory; an idea that is conscious now is no longer so a moment
 later, although it can become so again under certain conditions that
 are easily brought about. What the idea was in the interval we do not
-know. We can say that it was latent, and by this we mean that it was
-capable of becoming conscious at any time. Or, if we say that it was
-unconscious, we are <!--p11-->giving an equally correct
+know. We can say that it was *latent*, and by this we mean that it was
+*capable of becoming conscious* at any time. Or, if we say that it was
+*unconscious*, we are <!--p11-->giving an equally correct
 description. Thus 'unconscious' in this sense of the word coincides
 with 'latent and capable of becoming conscious'. The philosophers
 would no doubt object: 'No, the term unconscious does not apply here;
@@ -105,22 +105,23 @@ But we have arrived at the term or concept of 'unconscious' along
 another path, by taking account of certain experiences in which mental
 dynamics play a part. We have found, that is, we have been obliged to
 assume, that very powerful mental processes or ideas exist---here a
-quantitative or economic factor comes into question for the first
-time---which can produce in the mind all the effects that ordinary ideas
-do (including effects that can in their turn become conscious as
+quantitative or *economic* factor comes into question for the first
+time---which can produce in the mind all the effects that ordinary
+ideas do (including effects that can in their turn become conscious as
 ideas) without themselves becoming conscious. It is unnecessary here
 to repeat in detail what has been explained so often before. We need
 only say that this is the point at which psycho-analytic theory steps
-in---with the assertion that such ideas cannot become conscious because
-a certain force is opposed to them, that otherwise they could become
-conscious, and that then one would see how little they
+in---with the assertion that such ideas cannot become conscious
+because a certain force is opposed to them, that otherwise they could
+become conscious, and that then one would see how little they
 <!--p12-->differ from other elements which are admittedly mental. The
 fact that in the technique of psychoanalysis a means has been found by
 which the opposing force can be removed and the ideas in question made
 conscious renders this theory irrefutable. The state in which the
-ideas existed before being made conscious is called by us repression,
-and we assert that the force which instituted the repression and
-maintains it is perceived as resistance during the work of analysis.
+ideas existed before being made conscious is called by us
+*repression*, and we assert that the force which instituted the
+repression and maintains it is perceived as *resistance* during the
+work of analysis.
 
 We obtain our concept of the unconscious, therefore, from the theory
 of repression. The repressed serves us as a prototype of the
@@ -130,14 +131,14 @@ and that which is repressed and not capable of becoming conscious in
 the ordinary way. This piece of insight into mental dynamics cannot
 fail to affect terminology and description. That which is latent, and
 only unconscious in the descriptive and not in the dynamic sense, we
-call preconscious; the term unconscious we reserve for the dynamically
-unconscious repressed, so that we now have three terms, conscious
-(Cs), preconscious (Pcs), and unconscious (Ucs), which are no longer
-purely descriptive in sense. The Pcs is presumably a great deal closer
-<!--p13-->to the Cs than is the Ucs, and since we have called the Ucs
-mental we shall with even less hesitation call the latent Pcs
-mental. But why do we not choose, instead of this, to remain in
-agreement with the philosophers and, in a consistent way, to
+call *preconscious*; the term unconscious we reserve for the
+dynamically unconscious repressed, so that we now have three terms,
+conscious (Cs), preconscious (Pcs), and unconscious (Ucs), which are
+no longer purely descriptive in sense. The Pcs is presumably a great
+deal closer <!--p13-->to the Cs than is the Ucs, and since we have
+called the Ucs mental we shall with even less hesitation call the
+latent Pcs mental. But why do we not choose, instead of this, to
+remain in agreement with the philosophers and, in a consistent way, to
 distinguish the Pcs as well as the Ucs from what is conscious in the
 mind? The philosophers would propose that both the Pcs and the Ucs
 should be described as two varieties or levels of ‘psychoid’, and
@@ -168,8 +169,8 @@ these distinctions have proved to be inadequate and, for practical
 purposes, insufficient. This has become clear in more ways than one;
 but the decisive instance is as follows. We have formulated the idea
 that in every individual there is a coherent organization of mental
-processes, which we call his ego. This ego includes consciousness and
-it controls the approaches to motility, i.e. to the discharge of
+processes, which we call his *ego*. This ego includes consciousness
+and it controls the approaches to motility, *i.e.* to the discharge of
 excitations into <!--p16-->the external world; it is this institution
 in the mind which regulates all its own constituent processes, and
 which goes to sleep at night, though even then it continues to
@@ -239,13 +240,13 @@ stop, how is that possible? What does it mean when we say 'making it
 conscious'? How can that come about?
 
 We already know the point from which we have to start in this
-connection. We have said that consciousness is the superficies of the
-mental <!--p20-->apparatus; that is, we have allocated it as a
+connection. We have said that consciousness is the *superficies* of
+the mental <!--p20-->apparatus; that is, we have allocated it as a
 function to the system which is situated nearest to the external
 world. Incidentally, on this occasion the topographical terminology
 does not merely serve to describe the nature of the function, but
-actually corresponds to the anatomical facts.[^4] Our investigations too
-must take this surface organ of perception as a starting-point.
+actually corresponds to the anatomical facts.[^4] Our investigations
+too must take this surface organ of perception as a starting-point.
 
 All perceptions which are received from without (sense-perceptions)
 and from within---what we call sensations and feelings---are Cs from the
@@ -304,20 +305,21 @@ a word that has been heard.
 
 We must not be led away, in the interests of simplification perhaps,
 into forgetting the import<!--p23-->ance of optical
-memory-residues---those of things (as opposed to words)---or to deny
-that it is possible for thought-processes to become conscious through
-a reversion to visual residues, and that in many people this seems to
-be a favourite method. The study of dreams and of preconscious
-phantasies on the lines of J. Varendonck's observations gives us an
-idea of the special character of this visual thinking. We learn that
-what becomes conscious is as a rule only the concrete subject-matter
-of the thought, and that the relations between the various elements of
-this subject-matter, which is what specially characterizes thought,
-cannot be given visual expression. Thinking in pictures is, therefore,
-only a very incomplete form of becoming conscious. In some way, too,
-it approximates more closely to unconscious processes than does
-thinking in words, and it is unquestionably older than the latter both
-ontogenetically and phylogenetically.
+memory-residues---those of *things* (as opposed to *words*)---or to
+deny that it is possible for thought-processes to become conscious
+through a reversion to visual residues, and that in many people this
+seems to be a favourite method. The study of dreams and of
+preconscious phantasies on the lines of J. Varendonck's observations
+gives us an idea of the special character of this visual thinking. We
+learn that what becomes conscious is as a rule only the concrete
+subject-matter of the thought, and that the relations between the
+various elements of this subject-matter, which is what specially
+characterizes thought, cannot be given visual expression. Thinking in
+pictures is, therefore, only a very incomplete form of becoming
+conscious. In some way, too, it approximates more closely to
+unconscious processes than does thinking in words, and it is
+unquestionably older than the latter both ontogenetically and
+phylogenetically.
 
 To return to our argument: if, therefore, this is the way in which
 something that is in itself unconscious becomes preconscious, the
@@ -372,21 +374,22 @@ sensations, although the undetermined element corresponding to them is
 the same as if they did. We then come to speak, in a condensed and not
 entirely correct manner, of 'unconscious feelings', keeping up an
 analogy with unconscious ideas which is not altogether
-justifiable. Actually the difference is that, whereas with Ucs ideas
+justifiable. Actually the difference is that, whereas with Ucs *ideas*
 connecting-links must be forged before they can be brought into the
-Cs, with feelings, which are themselves transmitted directly, there is
-no necessity for this. In other words: the distinction between Cs and
-Pcs has no meaning where feelings are concerned; the Pcs here falls
-out of account, and feelings are either conscious or unconscious. Even
-when they are connected with verbal images, their becoming conscious
-is not due to that circumstance, but they become so directly.
+Cs, with *feelings*, which are themselves transmitted directly, there
+is no necessity for this. In other words: the distinction between Cs
+and Pcs has no meaning where feelings are concerned; the Pcs here
+falls out of account, and feelings are either conscious or
+unconscious. Even when they are connected with verbal images, their
+becoming conscious is not due to that circumstance, but they become so
+directly.
 
 The part played by verbal images now becomes perfectly clear. By their
 interposition internal thought-processes are made into perceptions. It
 is like a demonstration of the theorem that all knowledge has its
 origin in external perception. It may sometimes happen that a
 hyper-cathexis of the process of thinking takes place, in which case
-thoughts are perceived in the literal sense of the word---as if they
+thoughts are *perceived* in the literal sense of the word---as if they
 came from without---and are consequently held to be true.
 
 <!--p27-->After this clarifying of the relations between external and
@@ -409,7 +412,7 @@ fabric of science. I propose to take it into account by calling the
 entity which starts out from the system Pcpt and begins by being Pcs
 the ego, and by following Groddeck in giving to the other part of the
 mind, into which this entity extends and which <!--p28-->behaves as
-though it were Ucs, the name of Id (Es).[^7]
+though it were Ucs, the name of *Id* (*Es*).[^7]
 
 We shall soon see whether this conception affords us any gain in
 understanding or any advantage for purposes of description. We shall
@@ -573,7 +576,7 @@ erotic object-choices through which he has lived. In women who have
 had many love-affairs there seems to be no difficulty in finding
 vestiges of their object-cathexes in the traits of their character. We
 must also take into consideration the case of simultaneous
-object-cathexis and identification, i.e. in which the alteration in
+object-cathexis and identification, *i.e.* in which the alteration in
 character occurs before the object has been given up. In such a case
 the alteration in character would be able to survive the
 object-relation and in a certain sense to conserve it.
@@ -635,9 +638,9 @@ and the constitutional bisexuality of each individual.
 
 In its simplified form the case of the male child may be described as
 follows. At a very early age the little boy develops an
-object-cathexis of his mother, which originally related to the
+object-cathexis of his *mother*, which originally related to the
 mother's breast and is the earliest instance of an object-choice on
-the anaclitic model; his father the boy deals with by identifying
+the anaclitic model; his *father* the boy deals with by identifying
 himself with him. For a time these two relationships exist side by
 side, until the sexual wishes in regard to the mother become more
 intense and the father is perceived as an obstacle to them; this gives
@@ -713,8 +716,8 @@ produce a father-identification and a mother-identification. The
 father-identification will preserve the object-relation to the mother
 which belonged to the positive complex and will at the same time take
 the place of the object-relation to the father which belonged to the
-inverted complex: and the same will be true, mutatis mutandis, of the
-mother-identification. The relative intensity of the two
+inverted complex: and the same will be true, *mutatis mutandis*, of
+the mother-identification. The relative intensity of the two
 identifications in any individual will reflect the preponderance in
 him of one or other of the two sexual dispositions.
 
@@ -728,7 +731,7 @@ of an ego-ideal or super-ego.**
 The super-ego is, however, not merely a deposit left by the earliest
 object-choices of the id; it also represents an energetic
 reaction-formation against those choices. Its relation to the ego is
-not exhausted by the precept: ‘You ought to be such and such (like
+not exhausted by the precept: ‘You *ought to be* such and such (like
 your father)’; it also comprises the prohibition: ‘You must not be
 such and such (like your father); that is, you may not do
 <!--p45-->all that he does ; many things are his prerogative '. This
@@ -821,8 +824,8 @@ with them.
 
 Religion, morality, and a social sense---the chief elements of what is
 highest in man[^18]---were originally one and the same
-thing. According to the hypothesis which I have put forward in Totem
-und<!--p50-->Tabu they were acquired phylogenetically out of the
+thing. According to the hypothesis which I have put forward in *Totem
+und <!--p50-->Tabu* they were acquired phylogenetically out of the
 father-complex: religion and moral restraint by the actual process of
 mastering the Oedipus complex itself, and social feeling from the
 necessity for overcoming the rivalry that then remained between the
@@ -968,17 +971,17 @@ the instinct of destruction is habitually enlisted in the service of
 Eros; we suspect that the epileptic fit is a product and sign of
 instinctual defusion; and we come to understand that defusion and the
 marked emergence of the death-instinct are among the most noteworthy
-effects of many severe neuroses, e.g. the obsessional neuroses. Making
-a swift generalization, we might conjecture that the essence of a
-regression of libido, e.g. from the genital to the sadistic-anal
-level, would lie in a defusion of instincts, just as, conversely, the
-advance from an earlier to the definitive genital phase would be
-<!--p58-->conditioned by an accession of erotic components. The
-question also arises whether ordinary ambivalence, which is so often
-unusually strong in the constitutional disposition to neurosis, should
-not be regarded as the product of a defusion; ambivalence, however, is
-such a fundamental phenomenon that it more probably represents a state
-of incomplete fusion.
+effects of many severe neuroses, *e.g.* the obsessional
+neuroses. Making a swift generalization, we might conjecture that the
+essence of a regression of libido, *e.g.* from the genital to the
+sadistic-anal level, would lie in a defusion of instincts, just as,
+conversely, the advance from an earlier to the definitive genital
+phase would be <!--p58-->conditioned by an accession of erotic
+components. The question also arises whether ordinary ambivalence,
+which is so often unusually strong in the constitutional disposition
+to neurosis, should not be regarded as the product of a defusion;
+ambivalence, however, is such a fundamental phenomenon that it more
+probably represents a state of incomplete fusion.
 
 It is natural that we should now turn with interest to inquire whether
 there may not be instructive connections to be traced between the
@@ -1046,7 +1049,7 @@ impulses and used to supplement the hostile energy.
 Not quite the same thing but something like it happens when a hostile
 attitude of rivalry is overcome and leads to homosexuality. The
 hostile attitude has no prospect of gratification;
-consequently---i.e. as an economic measure---it is replaced by a
+consequently---*i.e.* as an economic measure---it is replaced by a
 loving attitude for which there is more hope of satisfaction, that is,
 possibility of discharge. So we see that we are not obliged in either
 of these cases to assume a direct transformation of hate into love
@@ -1070,12 +1073,12 @@ persistence throughout their vicissitudes is still very obscure and
 has hardly been attacked up to the present. In the sexual
 component-instincts, which are especially accessible to observation,
 it is possible to perceive the working of processes which are in the
-same category as what we are discussing; e.g. we see that some degree
-of communication exists between the component instincts, that an
-instinct deriving from one particular erotogenic source can make over
-its intensity to reinforce another component-instinct originating in
-another source, that gratification of one instinct can take the place
-of gratification of another, and many more facts of the same
+same category as what we are discussing; *e.g.* we see that some
+degree of communication exists between the component instincts, that
+an instinct deriving from one particular erotogenic source can make
+over its intensity to reinforce another component-instinct originating
+in another source, that gratification of one instinct can take the
+place of gratification of another, and many more facts of the same
 nature---all of which must encourage us to venture upon certain
 assumptions.
 
@@ -1149,8 +1152,8 @@ secondary, acquired by the withdrawal of the libido from objects.
 
 <!--p66-->Over and over again we find on tracing instinctual impulses
 back that they disclose themselves as derivatives of Eros. If it were
-not for the considerations put forward in Beyond the Pleasure
-Principle, and ultimately for the sadistic constituents which have
+not for the considerations put forward in *Beyond the Pleasure
+Principle*, and ultimately for the sadistic constituents which have
 attached themselves to Eros, we should have difficulty in holding to
 our fundamental dualistic point of view. But since we cannot escape
 that view, we are driven to conclude that the death-instincts are by
@@ -1564,7 +1567,7 @@ psychoanalysis, for death is an abstract concept with a
 found. It would seem that the mechanism of the fear of death can only
 be that the ego relinquishes its narcissistic libidinal cathexis in a
 very large measure, that is, that it gives up itself, just as it gives
-up some external object in other cases in which it feels anxiety. I
+up some *external* object in other cases in which it feels anxiety. I
 believe that the fear of death concerns an interplay between the ego
 and the super-ego.
 
@@ -1612,7 +1615,7 @@ valuing too cheaply the part played by Eros.
     *Jenseits des Lustprinzips*, Vienna, 1920.
 
 [^2]: This may be compared with my ' Note on the Unconscious in
-    Psycho-Analysis' (1912), Collected Papers, vol. iv. A new turn
+    Psycho-Analysis' (1912), *Collected Papers*, vol. iv. A new turn
     taken by criticisms of the unconscious deserves consideration at
     this point. Many investigators, who do not refuse to recognize the
     facts of psycho-analysis but who are unwilling to accept the
@@ -1673,9 +1676,9 @@ valuing too cheaply the part played by Eros.
     habitually used this grammatical term for whatever in our nature
     is impersonal and, so to speak, subject to natural law.
 
-    [For the German 'Es', which means literally 'it', the corresponding
+    [For the German '*Es*', which means literally 'it', the corresponding
     Latin word 'id' has been adopted on the analogy of 'ego' which is the
-    accepted rendering of the German 'Ich' (literally 'I').---TRANS.]
+    accepted rendering of the German '*Ich*' (literally 'I').---TRANS.]
 
 [^8]: [*I.e.* the ego is ultimately derived from bodily sensations,
     chiefly from those springing from the surface of the body. It may
@@ -1761,7 +1764,7 @@ valuing too cheaply the part played by Eros.
     unmasking its unconscious repressed roots, and of thus gradually
     changing it into a conscious sense of guilt. One has a special
     opportunity for influencing it when this Ucs sense of guilt is a
-    'borrowed' one, i.e. when it is the product of an identification
+    'borrowed' one, *i.e.* when it is the product of an identification
     with some other person who was once the object of an erotic
     cathexis. When the sense of guilt has been adopted in this way it
     is often the sole remaining trace of the abandoned love-relation
@@ -1781,14 +1784,14 @@ valuing too cheaply the part played by Eros.
     manner, it must be honestly confessed that here we have another
     limitation to the effectiveness of analysis; after all, analysis
     does not set out to abolish the possibility of morbid reactions,
-    but to give the patient's ego freedom to choose one way or the
+    but to give the patient's ego *freedom* to choose one way or the
     other.
 
 [^24]: This proposition is only apparently a paradox; it simply states
     that human nature has a far greater capacity, both for good and
-    for evil, than it thinks it has, i.e. than it is aware of through
-    the conscious perceptions of the ego.
+    for evil, than it thinks it has, *i.e.* than it is aware of
+    through the conscious perceptions of the ego.
 
 [^25]: [The author's views upon anxiety as given in the following
-    paragraphs have been largely revised in his later work, Hemmung,
-    Symptom und Angst.---TRANS.]
+    paragraphs have been largely revised in his later work, *Hemmung,
+    Symptom und Angst*.---TRANS.]
