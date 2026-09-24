@@ -227,7 +227,7 @@ single ray of light that penetrates the obscurity of depth-psychology.
 # II
 ## THE EGO AND THE ID
 
-PATHOLOGICAL research has centred our interest too exclusively on the
+Pathological research has centred our interest too exclusively on the
 repressed. We wish to know more about the ego, now that we know that
 it, too, can be unconscious in the proper sense of the word. Hitherto
 the only guide we have had while pursuing our investigations has been
@@ -900,7 +900,7 @@ painting is being fought out in the sky.
 
 ## THE TWO CLASSES OF INSTINCTS
 
-WE have already said that, if the differentiation we have made of the
+We have already said that, if the differentiation we have made of the
 mind into an id, an ego, and a super-ego represents any advance in our
 knowledge, it ought to enable us to understand more thoroughly the
 dynamic relations within the mind and to describe them more
@@ -1194,7 +1194,7 @@ mastering the tensions.
 
 ## THE SUBORDINATE RELATIONSHIPS OF THE EGO
 
-THE complexity of our subject-matter must be an excuse for the fact
+The complexity of our subject-matter must be an excuse for the fact
 that none of the chapter-headings of this book correspond entirely to
 their contents, and that in turning to new aspects of the problem we
 constantly hark back to matters that have already been dealt with.
