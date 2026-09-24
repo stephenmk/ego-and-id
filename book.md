@@ -7,7 +7,7 @@ Psycho-analytischer Verlag, Vienna. I was able to discuss the
 translation of this very obscure book with the Author, and became
 responsible for it, so that it bears my name. The actual version which
 follows, however, though drafted by me, has been worked over by three
-people.  Dr. Ernest Jones as Editor has given it his usual care;
+people. Dr. Ernest Jones as Editor has given it his usual care;
 Fräulein Anna Freud has corrected misapprehensions and also referred
 to the Author several doubts that arose; but if the translation
 attains any exactness in rendering the Author's thoughts and
@@ -332,7 +332,7 @@ Whereas the relation between external perceptions and the ego is quite
 perspicuous, that between internal perceptions and the ego requires
 special investigation. It gives rise once more to a doubt whether we
 are really justified in referring the whole of consciousness to the
-single superficial system Pcpt-Cs.  Internal perceptions yield
+single superficial system Pcpt-Cs. Internal perceptions yield
 sensations of processes arising in the most diverse and certainly also
 in the deepest strata of the mental apparatus. Very little is known
 about these sensations and feelings; the best examples we have of them
