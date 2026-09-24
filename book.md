@@ -258,16 +258,16 @@ equally unimaginable; there must be a third contingency to meet the
 case.
 
 <!--p21-->I have already, in another place,[^5] suggested that the
-real difference between a UCS and a PCs idea (thought) consists in
+real difference between a Ucs and a Pcs idea (thought) consists in
 this: that the former is worked out upon some sort of material which
-remains unrecognized, whereas the latter (the PCs) has in addition
+remains unrecognized, whereas the latter (the Pcs) has in addition
 been brought into connection with verbal images. This is the first
-attempt to find a distinguishing mark for the two systems, the PCs and
-the UCSs, other than their relation to consciousness. It would seem,
+attempt to find a distinguishing mark for the two systems, the Pcs and
+the Ucs, other than their relation to consciousness. It would seem,
 then, that the question, ‘How does a thing become conscious?’ could be
 put more advantageously thus: ‘How does a thing become preconscious?’
 And the answer would be: ‘By coming into connection with the verbal
-images that correspond to it.’
+images that correspond to it’.
 
 These verbal images are memory-residues; they were at one time
 perceptions, and like all memory-residues they can become conscious
@@ -346,7 +346,7 @@ Sensations of a pleasurable nature are not characterized by any
 inherently impelling quality, <!--p25-->whereas ‘painful’ ones possess
 this quality in a high degree. The latter impel towards change,
 towards discharge, and that is why we interpret ‘pain’ as implying a
-heightening and pleasure a lowering of energetic cathexis. Suppose we
+heightening and pleasure a lowering of energic cathexis. Suppose we
 describe what becomes conscious in the shape of pleasure and ‘pain’ as
 an undetermined quantitative and qualitative element in the mind; the
 question then is whether that element can become conscious where it
@@ -463,7 +463,7 @@ the ego and its differentiation from the id. The body itself, and
 above all its surface, is a place from which both external and
 internal perceptions may spring. It is seen in the same way as any
 other object, but to the touch it yields two kinds of sensations, one
-of which is equivalent to an internal perception. Psychophysics has
+of which is equivalent to an internal perception. Psychophysiology has
 fully discussed the manner in which the body attains its special
 position among other objects in the world of perception. Pain seems
 also to play a part in the process, and the way in which we gain new
@@ -726,13 +726,13 @@ reaction-formation against those choices. Its relation to the ego is
 not exhausted by the precept: ‘You *ought to be* such and such (like
 your father)’; it also comprises the prohibition: ‘You must not be
 such and such (like your father); that is, you may not do
-<!--p45-->all that he does ; many things are his prerogative’. This
+<!--p45-->all that he does; many things are his prerogative’. This
 double aspect of the ego-ideal derives from the fact that the
 ego-ideal had the task of effecting the repression of the Oedipus
 complex, indeed, it is to that revolutionary event that it owes its
 existence. Clearly the repression of the Oedipus complex was no easy
 task. The parents, and especially the father, were perceived as the
-obstacle to realization of the Oedipus wishes ; so the child’s ego
+obstacle to realization of the Oedipus wishes; so the child’s ego
 brought in a reinforcement to help in carrying out the repression by
 erecting this same obstacle within itself. The strength to do this
 was, so to speak, borrowed from the father, and this loan was an
@@ -816,7 +816,7 @@ the ego and the id.
 It is easy to show that the ego-ideal answers in every way to what is
 expected of the higher nature of man. In so far as it is a substitute
 for the longing for a father, it contains the germ from which all
-religions have evolved. The self-judgment which declares that the ego
+religions have evolved. The self-judgement which declares that the ego
 falls short of its ideal produces the sense of worthlessness with
 which the religious believer attests his longing. As a child grows up,
 the office of father is carried on by masters and by others in
@@ -889,7 +889,7 @@ The way in which the super-ego came into being explains how it is that
 the earlier conflicts of the ego with the object-cathexes of the id
 can be carried on and continued in conflicts with their successor, the
 super-ego. If the ego has not succeeded in mastering the Oedipus
-complex satisfactorily, the energetic cathexis of the latter,
+complex satisfactorily, the energic cathexis of the latter,
 springing from the id, will find an outlet in the
 reaction-<!--p53-->formations of the ego-ideal. The very free
 communication possible between the ideal and these Ucs instinctual
@@ -1032,7 +1032,7 @@ persecutor and then becomes the object of aggressive and often
 dangerous impulses on the part of the patient. Here we have grounds
 for interposing an intermediate phase in which the love is transformed
 into hate. Analytic investigation has only lately revealed that the
-sources of homosexuality and of de-sexualized social feelings include
+sources of homosexuality and of desexualized social feelings include
 very intense feelings of rivalry giving rise to aggressive desires,
 which, after they have been surmounted, are succeeded by love for the
 object that was formerly hated or by an identification with it. The
@@ -1091,12 +1091,12 @@ active alike in the ego and in the id, proceeds from the narcissistic
 reservoir of libido, i.e. that it is desexualized Eros. (The erotic
 instincts appear to be altogether more plastic, more readily diverted
 and displaced than the destructive instincts.) From this we can easily
-go on to assume that this displacable libido is employed in the
+go on to assume that this displaceable libido is employed in the
 service of the pleasure-principle to obviate accumulations and to
 facilitate discharge. It is clear, incidentally, that there is a
 certain indifference about the path along which the discharge takes
 place, so long as it takes place somehow. We know this trait; it is
-characteristic of the cathetic processes in the id. It is found in
+characteristic of the cathectic processes in the id. It is found in
 erotic cathexes, where a peculiar indifference in regard to the object
 displays itself; and it is especially evident in the transferences
 arising in analysis, which develop inevitably no matter who the
@@ -1116,7 +1116,7 @@ are now discussing it is the paths of discharge. It would seem to be
 characteristic of the ego to be more particular both about the choice
 of an object and about the path of discharge.
 
-If this displacable energy is desexualized libido, it might also be
+If this displaceable energy is desexualized libido, it might also be
 described as sublimated energy; for it would still retain the main
 purpose of Eros---that of uniting and binding---in so far as it helped
 towards establishing that unity, or tendency to unity, which is
@@ -1366,7 +1366,7 @@ it does not carry us very far, will be that it cannot possibly be
 disputed that the super-ego, no less than the ego, is derived from
 auditory impressions; it is part of the ego and remains to a great
 extent accessible to consciousness by way <!--p77-->of these verbal
-images (concepts, abstractions), but the cathetic energy of these
+images (concepts, abstractions), but the cathectic energy of these
 elements of the super-ego does not originate from the auditory
 perceptions, instruction, reading, etc., but from sources in the id.
 
@@ -1389,9 +1389,9 @@ in time by a revulsion into mania.
 The reproaches of conscience in certain forms of obsessional neurosis
 are just as painful and <!--p78-->tormenting, but here the situation
 is less perspicuous. It is remarkable that the obsessional neurotic,
-in contrast to the melancholic, never takes the step of
+in contrast to the melancholiac, never takes the step of
 self-destruction; he is as if immune against the danger of suicide,
-and is far better protected from it than the hysterical. We can see
+and is far better protected from it than the hysteric. We can see
 that what guarantees the safety of the ego is the fact that the object
 has been retained. In the obsessional neurosis it has become possible,
 through a regression to the pre-genital organization, for the
@@ -1443,7 +1443,7 @@ being who metes out punishment.
 I cannot go further in my consideration of these questions without
 introducing a fresh assumption. The super-ego arises, as we know, from
 an identification with the father regarded as a model. Every such
-identification is in the nature of a de-sexualization or even of a
+identification is in the nature of a desexualization or even of a
 sublimation. It now seems as though when a transformation of this kind
 takes place there occurs at the same time an instinctual
 defusion. After sublimation the erotic component no longer has the
@@ -1561,7 +1561,7 @@ seems to me, on the contrary, perfectly correct to distinguish the
 fear of death from dread of an external object (objective anxiety) and
 from neurotic libidinal anxiety. It presents a difficult problem to
 psychoanalysis, for death is an abstract concept with a
-<!--p86-->negative content for which no unconscious correlativa can be
+<!--p86-->negative content for which no unconscious correlative can be
 found. It would seem that the mechanism of the fear of death can only
 be that the ego relinquishes its narcissistic libidinal cathexis in a
 very large measure, that is, that it gives up itself, just as it gives
