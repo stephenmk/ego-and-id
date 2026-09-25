@@ -402,7 +402,7 @@ life of what we call our ego is essentially passive, and that, as he
 expresses it, we are ‘lived’ by unknown and uncontrollable forces.[^6]
 We have all had impressions of the same kind, even though they may not
 have overwhelmed us to the exclusion of all others, and we need feel
-no hesitation in finding a place for Groddeck’s discovery in the
+no hesitation in finding a place for Groddeck's discovery in the
 fabric of science. I propose to take it into account by calling the
 entity which starts out from the system Pcpt and begins by being Pcs
 the ego, and by following Groddeck in giving to the other part of the
@@ -539,7 +539,7 @@ come to understand that this kind of substitution has a great share in
 determining the form taken on by the ego and that it contributes
 materially towards building up what is called its ‘character’.
 
-At the very beginning, in the primitive oral phase of the individual’s
+At the very beginning, in the primitive oral phase of the individual's
 existence, object-cathexis and identification are hardly to be
 distinguished from each other. We can only suppose that later on
 object-cathexes proceed from the id, in which erotic trends are felt
@@ -732,7 +732,7 @@ ego-ideal had the task of effecting the repression of the Oedipus
 complex, indeed, it is to that revolutionary event that it owes its
 existence. Clearly the repression of the Oedipus complex was no easy
 task. The parents, and especially the father, were perceived as the
-obstacle to realization of the Oedipus wishes; so the child’s ego
+obstacle to realization of the Oedipus wishes; so the child's ego
 brought in a reinforcement to help in carrying out the repression by
 erecting this same obstacle within itself. The strength to do this
 was, so to speak, borrowed from the father, and this loan was an
@@ -754,7 +754,7 @@ historical: namely, the lengthy duration in man of the helplessness
 and dependence belonging to childhood, and the fact of his Oedipus
 complex, the repression of which we have shown to be connected with
 the interruption of libidinal development by the latency period and so
-with the twofold onset of activity characteristic of man’s sexual
+with the twofold onset of activity characteristic of man's sexual
 life.[^17] According to the view of one psycho-analyst, the
 last-mentioned phenomenon, which seems to be peculiar to man, is a
 heritage of the cultural development necessitated by the glacial
@@ -1497,24 +1497,24 @@ id, and from the severity of the super-ego. Three kinds of anxiety
 correspond to <!--p83-->these three dangers, since anxiety is the
 expression of a recoil from danger. Like the dweller in a borderland
 that it is, the ego tries to mediate between the world and the id, to
-make the id comply with the world’s demands and, by means of muscular
-activity, to accommodate the world to the id’s desires. In point of
+make the id comply with the world's demands and, by means of muscular
+activity, to accommodate the world to the id's desires. In point of
 fact it behaves like the physician during treatment by analysis; it
 offers itself to the id as a libidinal object in view of its power of
-adaptation to the real world, and aims at attaching the id’s libido to
+adaptation to the real world, and aims at attaching the id's libido to
 itself. It is not only the ally of the id; it is also a submissive
 slave who courts the love of his master. Whenever possible, it tries
 to remain on good terms with the id; it draws the veil of its Pcs
-rationalizations over the id’s Ucs demands; it pretends that the id is
+rationalizations over the id's Ucs demands; it pretends that the id is
 showing obedience to the mandates of reality, even when in fact it is
-remaining obdurate and immovable; it throws a disguise over the id’s
+remaining obdurate and immovable; it throws a disguise over the id's
 conflicts with reality and, if possible, over its conflicts with the
 super-ego too. Its position midway between the id and reality tempts
 it only too often to become sycophantic, opportunist and false, like a
 politician who sees the truth but wants to keep his place in popular
 favour.
 
-Towards the two classes of instincts the ego’s attitude is not
+Towards the two classes of instincts the ego's attitude is not
 impartial. Its work of identifica<!--p84-->tion and sublimation gives
 the death-instincts in the id assistance in mastering the libido, but
 in so doing it incurs the risk of itself becoming the object of the
