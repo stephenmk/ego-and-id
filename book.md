@@ -160,9 +160,9 @@ resort a question of a perception which must be either affirmed or
 denied, and the act of perception itself tells us nothing of the
 reason why a thing is or is not perceived. No one has a right to
 complain because the actual phenomenon expresses the underlying
-dynamic factors ambiguously.[^2]
+dynamic factors ambiguously.[^2]<!--p15-->
 
-<!--p15-->In the further course of psycho-analytic work, however, even
+In the further course of psycho-analytic work, however, even
 these distinctions have proved to be inadequate and, for practical
 purposes, insufficient. This has become clear in more ways than one;
 but the decisive instance is as follows. We have formulated the idea
@@ -255,9 +255,9 @@ make its way towards them? This is clearly one of the difficulties
 that spring up when one begins to take the spatial or ‘topographical’
 conception of mental life seriously. Both these possibilities are
 equally unimaginable; there must be a third contingency to meet the
-case.
+case.<!--p21-->
 
-<!--p21-->I have already, in another place,[^5] suggested that the
+I have already, in another place,[^5] suggested that the
 real difference between a Ucs and a Pcs idea (thought) consists in
 this: that the former is worked out upon some sort of material which
 remains unrecognized, whereas the latter (the Pcs) has in addition
@@ -276,9 +276,9 @@ upon us like a new discovery that only something which has once been a
 Cs perception can become conscious, and that anything arising from
 within (apart from feelings) that seeks to become conscious must try
 to transform itself into external perceptions: this can be done by way
-of memory-traces.
+of memory-traces.<!--p22-->
 
-<!--p22-->We conceive of memory-residues as contained in systems which
+We conceive of memory-residues as contained in systems which
 are directly adjacent to the system Pcpt-Cs, so that the cathexes
 pertaining to the memory-residues can readily extend outward on to the
 elements of the latter system. We are immediately reminded of
@@ -385,9 +385,9 @@ is like a demonstration of the theorem that all knowledge has its
 origin in external perception. It may sometimes happen that a
 hyper-cathexis of the process of thinking takes place, in which case
 thoughts are *perceived* in the literal sense of the word---as if they
-came from without---and are consequently held to be true.
+came from without---and are consequently held to be true.<!--p27-->
 
-<!--p27-->After this clarifying of the relations between external and
+After this clarifying of the relations between external and
 internal perception and the superficial system Pcpt-Cs, we can go on
 to work out our conception of the ego. It clearly starts out from its
 nucleus, the system Pcpt, and begins by embracing the Pcs, which is
@@ -476,9 +476,9 @@ entity, but it is itself the projection of a surface.[^8] If we wish
 to find an anatomical analogy for it we can easily identify it with
 the ‘cortical homunculus’ of the anatomists, which stands on its head
 in the cortex, sticks its heels into the air, faces backwards and, as
-we know, has its speech-area on the left-hand side.
+we know, has its speech-area on the left-hand side.<!--p32-->
 
-<!--p32-->The relation of the ego to consciousness has been gone into
+The relation of the ego to consciousness has been gone into
 repeatedly; yet there are still some important facts in this
 connection which remain to be described. Accustomed as we are to
 taking our social or ethical standard of values along with us wherever
@@ -998,9 +998,9 @@ can be no doubt about the pleasure-principle, and the differentiations
 within the ego have good clinical justification, but the distinction
 between the two classes of instincts does not seem sufficiently
 assured and it is possible that facts of clinical analysis may be
-found to conflict with it.
+found to conflict with it.<!--p59-->
 
-<!--p59-->One such fact appears to exist. Instead of the opposition
+One such fact appears to exist. Instead of the opposition
 between the two classes of instincts let us consider the polarity of
 love and hate. (There is no difficulty in finding a representative of
 Eros; but we must be grateful that we can find a representative of the
@@ -1106,9 +1106,9 @@ wrong people. Such behaviour on the part of the unconscious reminds
 one of the comic story of the three village tailors, one of whom had
 to be hanged because the only village blacksmith had committed a
 capital offence. The penalty must be exacted even if it does not fall
-upon the guilty.
+upon the guilty.<!--p64-->
 
-<!--p64-->It was in studying dream-work that we first came upon this
+It was in studying dream-work that we first came upon this
 kind of looseness in the displacements brought about by the primary
 process. In that case it was the objects that were thus relegated to a
 position of no more than secondary importance, just as in the case we
@@ -1150,9 +1150,9 @@ robust. Part of this libido is sent out by the id into erotic
 object-cathexes, whereupon the ego, now growing stronger, attempts to
 obtain possession of this object-libido and to force itself upon the
 id as a love-object. The narcissism of the ego is thus seen to be
-secondary, acquired by the withdrawal of the libido from objects.
+secondary, acquired by the withdrawal of the libido from objects.<!--p66-->
 
-<!--p66-->Over and over again we find on tracing instinctual impulses
+Over and over again we find on tracing instinctual impulses
 back that they disclose themselves as derivatives of Eros. If it were
 not for the considerations put forward in *Beyond the Pleasure
 Principle*, and ultimately for the sadistic constituents which have
