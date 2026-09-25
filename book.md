@@ -34,8 +34,8 @@ biology, and it consequently stands in a closer relation to
 psycho-analysis than does *Beyond the Pleasure Principle*. The
 thoughts contained in it are synthetic rather than speculative in
 character and their aim appears to be an ambitious one. I am aware,
-however, that they do not go beyond the baldest outlines and I am
-<!--p08-->perfectly content to recognize their limitations in this
+however, that they do not go beyond the baldest outlines and I
+am <!--p08-->perfectly content to recognize their limitations in this
 respect.
 
 At the same time, the train of thought touches upon things not
@@ -111,9 +111,9 @@ to repeat in detail what has been explained so often before. We need
 only say that this is the point at which psycho-analytic theory steps
 in---with the assertion that such ideas cannot become conscious
 because a certain force is opposed to them, that otherwise they could
-become conscious, and that then one would see how little they
-<!--p12-->differ from other elements which are admittedly mental. The
-fact that in the technique of psycho-analysis a means has been found
+become conscious, and that then one would see how little
+they <!--p12-->differ from other elements which are admittedly mental.
+The fact that in the technique of psycho-analysis a means has been found
 by which the opposing force can be removed and the ideas in question
 made conscious renders this theory irrefutable. The state in which the
 ideas existed before being made conscious is called by us
@@ -320,10 +320,9 @@ To return to our argument: if, therefore, this is the way in which
 something that is in itself unconscious becomes preconscious, the
 question how something that is repressed can be made (pre)conscious
 would be answered as follows. It is done by supplying through the work
-of the analysis Pcs connecting-links of the kind we have
-<!--p24-->been discussing. Consciousness remains where it is,
-therefore; but, on the other hand, the Ucs does not rise up into the
-Cs.
+of the analysis Pcs connecting-links of the kind we have <!--p24-->been
+discussing. Consciousness remains where it is, therefore; but, on the
+other hand, the Ucs does not rise up into the Cs.
 
 Whereas the relation between external perceptions and the ego is quite
 perspicuous, that between internal perceptions and the ego requires
@@ -424,8 +423,8 @@ But the repressed merges into the id as well, and is simply a part of
 it. The repressed is only cut off sharply from the ego by the
 resistances of repression; it can communicate with the ego through the
 id. We at once realize that almost all the delimitations we have been
-led into outlining by our study of pathology relate only to the
-<!--p29-->superficial levels of the mental apparatus---the only ones
+led into outlining by our study of pathology relate only to
+the <!--p29-->superficial levels of the mental apparatus---the only ones
 known to us. The state of things which we have been describing can be
 represented diagrammatically (Fig. 1); though it must be remarked that
 the form chosen has no pretensions to any special applicability, but
@@ -436,9 +435,9 @@ learn from cerebral anatomy. It wears it crooked, as one might say.
 It is easy to see that the ego is that part of the id which has been
 modified by the direct influence of the external world acting through
 the Pcpt-Cs: in a sense it is an extension of the
-surface-differentiation. Moreover, the ego has the task of
-<!--p30-->bringing the influence of the external world to bear upon
-the id and its tendencies, and endeavours to substitute the
+surface-differentiation. Moreover, the ego has the task
+of <!--p30-->bringing the influence of the external world to bear
+upon the id and its tendencies, and endeavours to substitute the
 reality-principle for the pleasure-principle which reigns supreme in
 the id. In the ego perception plays the part which in the id devolves
 upon instinct. The ego represents what we call reason and sanity, in
@@ -545,8 +544,8 @@ existence, object-cathexis and identification are hardly to be
 distinguished from each other. We can only suppose that later on
 object-cathexes proceed from the id, in which erotic trends are felt
 as needs. The ego, which at its inception is still far from robust,
-becomes aware of the object-cathexes, and either acquiesces in
-<!--p36-->them or tries to defend itself against them by the process
+becomes aware of the object-cathexes, and either acquiesces
+in <!--p36-->them or tries to defend itself against them by the process
 of repression.[^13]
 
 When it happens that a person has to give up a sexual object, there
@@ -661,8 +660,8 @@ character in the feminine mould.
 
 These identifications are not what our previous statements would have
 led us to expect, since they do not involve the absorption of the
-abandoned object into the ego: but this alternative outcome
-<!--p42-->may also occur; it is more readily observed in girls than in
+abandoned object into the ego: but this alternative outcome <!--p42-->may
+also occur; it is more readily observed in girls than in
 boys. Analysis very often shows that a little girl, after she has had
 to relinquish her father as a love-object, will bring her masculinity
 into prominence and identify herself with her father, that is, with
@@ -682,8 +681,8 @@ schematization which, to be sure, is often enough adequate for
 practical purposes. Closer study usually discloses the more complete
 Oedipus complex, which is twofold, positive and negative, and is due
 to the bisexuality originally present in children: that is to say, a
-boy has not merely an ambivalent attitude towards his father and an
-<!--p43-->affectionate object-relation towards his mother, but at the
+boy has not merely an ambivalent attitude towards his father and
+an <!--p43-->affectionate object-relation towards his mother, but at the
 same time he also behaves like a girl and displays an affectionate
 feminine attitude to his father and a corresponding hostility and
 jealousy towards his mother. It is this complicating element
@@ -726,8 +725,8 @@ object-choices of the id; it also represents an energetic
 reaction-formation against those choices. Its relation to the ego is
 not exhausted by the precept: ‘You *ought to be* such and such (like
 your father)’; it also comprises the prohibition: ‘You must not be
-such and such (like your father); that is, you may not do
-<!--p45-->all that he does; many things are his prerogative’. This
+such and such (like your father); that is, you may not do <!--p45-->all
+that he does; many things are his prerogative’. This
 double aspect of the ego-ideal derives from the fact that the
 ego-ideal had the task of effecting the repression of the Oedipus
 complex, indeed, it is to that revolutionary event that it owes its
@@ -809,8 +808,8 @@ each individual---his archaic heritage. And thus it is that what
 belongs to the lowest depths in the minds of each one of us is
 changed, through this formation of the ideal, into what we value as
 the highest in the human soul. It would be vain, however, to attempt
-to localize the ego-ideal, even in the sense in which we have
-<!--p49-->localized the ego, or to work it into any of those analogies
+to localize the ego-ideal, even in the sense in which we
+have <!--p49-->localized the ego, or to work it into any of those analogies
 with the help of which we have tried to picture the relation between
 the ego and the id.
 
@@ -935,8 +934,8 @@ course, aiming at the maintenance of life. Acting in this way, both
 the instincts would be conservative in the strictest sense of the
 word, since both would be endeavouring to re-establish a state of
 things that was disturbed by the emergence of life. The appearance of
-life would thus be regarded as the cause of the continuance of life
-<!--p56-->and also as the cause of the striving towards death; and
+life would thus be regarded as the cause of the continuance of
+life <!--p56-->and also as the cause of the striving towards death; and
 life itself would be a conflict and compromise between these two
 trends. The problem of the origin of life would remain a cosmological
 one; and the problem of the purpose and goal of life would be answered
@@ -1206,8 +1205,8 @@ rest of the ego in the form of a super-ego, while later on, as it
 grows stronger, the ego may become more able to withstand the effects
 of identifications. The super-ego owes its special position in the
 ego, or in regard to the ego, to a factor which must be considered
-from two sides: to the fact that on the one hand it was the
-<!--p69-->first identification and one which took place while the ego
+from two sides: to the fact that on the one hand it was
+the <!--p69-->first identification and one which took place while the ego
 was still feeble, and that on the other hand it was the heir to the
 Oedipus complex and thus incorporated into the ego objects of far
 greater significance than any others. The super-ego's relation to the
@@ -1247,9 +1246,9 @@ endure any praise or appreciation, but that they react inversely to
 the progress of the treatment. Every partial solution that ought to
 result, and in other people does result, in an improvement or a
 temporary suspension of symptoms produces in them for the time being
-an exacerbation of their illness; they get worse during the treatment
-<!--p71-->instead of getting better. They exhibit the so-called
-negative therapeutic reaction.
+an exacerbation of their illness; they get worse during the
+treatment <!--p71-->instead of getting better. They exhibit the
+so-called negative therapeutic reaction.
 
 There is no doubt that there is something in these people that sets
 itself against their recovery and dreads its approach as though it
@@ -1301,8 +1300,8 @@ significant.
 In certain forms of the obsessional neurosis the sense of guilt
 expresses itself loudly but cannot justify itself to the
 ego. Consequently the patient's ego rebels against this imputation of
-guilt and seeks the physician's support in repudiating it. It would
-<!--p74-->be folly to acquiesce in this, for to do so would have no
+guilt and seeks the physician's support in repudiating it. It
+would <!--p74-->be folly to acquiesce in this, for to do so would have no
 effect. Analysis shows that the super-ego is being influenced by
 processes that have remained hidden from the ego. It is possible to
 discover the repressed impulses which really occasion the sense of
@@ -1558,8 +1557,8 @@ death’, has hardly any meaning; at any rate it cannot be justified. It
 seems to me, on the contrary, perfectly correct to distinguish the
 fear of death from dread of an external object (objective anxiety) and
 from neurotic libidinal anxiety. It presents a difficult problem to
-psycho-analysis, for death is an abstract concept with a
-<!--p86-->negative content for which no unconscious correlative can be
+psycho-analysis, for death is an abstract concept with
+a <!--p86-->negative content for which no unconscious correlative can be
 found. It would seem that the mechanism of the fear of death can only
 be that the ego relinquishes its narcissistic libidinal cathexis in a
 very large measure, that is, that it gives up itself, just as it gives
