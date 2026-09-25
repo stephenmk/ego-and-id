@@ -113,9 +113,9 @@ in---with the assertion that such ideas cannot become conscious
 because a certain force is opposed to them, that otherwise they could
 become conscious, and that then one would see how little they
 <!--p12-->differ from other elements which are admittedly mental. The
-fact that in the technique of psychoanalysis a means has been found by
-which the opposing force can be removed and the ideas in question made
-conscious renders this theory irrefutable. The state in which the
+fact that in the technique of psycho-analysis a means has been found
+by which the opposing force can be removed and the ideas in question
+made conscious renders this theory irrefutable. The state in which the
 ideas existed before being made conscious is called by us
 *repression*, and we assert that the force which instituted the
 repression and maintains it is perceived as *resistance* during the
@@ -487,10 +487,10 @@ we go, we feel no surprise at hearing that the scene of the activities
 of the lower passions is in the unconscious; we expect, moreover, that
 the higher any mental function ranks in our scale of values the more
 easily it will find access to consciousness assured to it. Here,
-however, psychoanalytic experience disappoints us. On the one hand, we
-have evidence that even subtle and intricate intellectual operations
-which ordinarily require strenuous concentration can equally be
-carried out preconsciously and without coming into
+however, psycho-analytic experience disappoints us. On the one hand,
+we have evidence that even subtle and intricate intellectual
+operations which ordinarily require strenuous concentration can
+equally be carried out preconsciously and without coming into
 consciousness. Instances of this are quite incontestable; they may
 occur, for instance, during sleep, as is shown when some one finds,
 immediately after waking, that he knows the solution of a difficult
@@ -756,7 +756,7 @@ and dependence belonging to childhood, and the fact of his Oedipus
 complex, the repression of which we have shown to be connected with
 the interruption of libidinal development by the latency period and so
 with the twofold onset of activity characteristic of man’s sexual
-life.[^17] According to the view of one psychoanalyst, the
+life.[^17] According to the view of one psycho-analyst, the
 last-mentioned phenomenon, which seems to be peculiar to man, is a
 heritage of the cultural development necessitated by the glacial
 epoch. We see, then, that the differentiation of the super-ego from
@@ -1558,7 +1558,7 @@ death’, has hardly any meaning; at any rate it cannot be justified. It
 seems to me, on the contrary, perfectly correct to distinguish the
 fear of death from dread of an external object (objective anxiety) and
 from neurotic libidinal anxiety. It presents a difficult problem to
-psychoanalysis, for death is an abstract concept with a
+psycho-analysis, for death is an abstract concept with a
 <!--p86-->negative content for which no unconscious correlative can be
 found. It would seem that the mechanism of the fear of death can only
 be that the ego relinquishes its narcissistic libidinal cathexis in a
@@ -1649,7 +1649,7 @@ valuing too cheaply the part played by Eros.
     attempt to equate what is unnoticed with what is unconscious is
     obviously made without taking into account the dynamic conditions
     involved, which were the decisive factors in formulating the
-    psychoanalytic view. For it ignores two facts: first, that it is
+    psycho-analytic view. For it ignores two facts: first, that it is
     exceedingly difficult and requires very great effort to concentrate
     enough attention on something unnoticed of this kind; and secondly,
     that when this has been achieved the thought which was previously
