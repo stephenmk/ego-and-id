@@ -4,6 +4,69 @@ author: "Sigmund Freud"
 date: "1927"
 ---
 
+<!--pg01-->
+THE INTERNATIONAL
+PSYCHO-ANALYTICAL LIBRARY
+
+EDITED BY ERNEST JONES
+
+No. 12
+
+<!--pg02-->
+
+WORKS IN THIS SERIES
+BY THE SAME AUTHOR
+
+_________________________
+
+BEYOND THE PLEASURE PRINCIPLE.
+Translated by C. J. M. HUBBACK.
+
+GROUP PSYCHOLOGY AND THE ANALYSIS OF THE EGO.
+Translated by JAMES STRACHEY.
+
+COLLECTED PAPERS (in 4 Vols.).
+   I. EARLY PAPERS. HISTORY OF PSYCHO-ANALYTIC MOVEMENT.
+  II. CLINICAL PAPERS. PAPERS ON TECHNIQUE.
+ III. CASE HISTORIES. Translated by JAMES and ALIX STRACHEY.
+  IV. PAPERS ON METAPSYCHOLOGY AND APPLIED PSYCHO-ANALYSIS. Translated under supervision of Joan Riviere.
+
+<!--pg03-->
+
+THE INTERNATIONAL PSYCHO-ANALYTICAL LIBRARY
+EDITED BY ERNEST JONES
+NO. 12.
+
+THE EGO AND THE ID
+
+BY
+SIGM. FREUD, M.D., LL.D.
+
+AUTHORIZED TRANSLATION
+BY
+JOAN RIVIERE
+
+PUBLISHED BY LEONARD & VIRGINIA WOOLF AT THE
+HOGARTH PRESS, 52 TAVISTOCK SQUARE, LONDON, W.C.
+AND THE INSTITUTE OF PSYCHO-ANALYSIS
+MCMXXVII
+
+<!--pg04-->
+
+*Printed in Great Britain by R. & R. Clark, Limited, Edinburgh.*
+
+# <!--pg05--> CONTENTS
+
+|      |                                          | Page |
+|-----:|------------------------------------------|-----:|
+|      | INTRODUCTION                             |    7 |
+|   I. | CONSCIOUSNESS AND THE UNCONSCIOUS        |    9 |
+|  II. | THE EGO AND THE ID                       |   19 |
+| III. | THE EGO AND THE SUPER-EGO (EGO-IDEAL)    |   34 |
+|  IV. | THE TWO CLASSES OF INSTINCTS             |   54 |
+|   V. | THE SUBORDINATE RELATIONSHIPS OF THE EGO |   68 |
+
+
 # <!--p06-->TRANSLATOR'S NOTE
 
 *Das Ich und das Es* was published in 1923 by the Internationaler
@@ -1607,6 +1670,57 @@ desire to be at peace and (as the pleasure-principle demands) to put
 Eros, the intruder, to rest; but that would be to run the risk of
 valuing too cheaply the part played by Eros.
 
+<!--p89-->
+
+INTERNATIONAL
+PSYCHO-ANALYTICAL LIBRARY
+
+PUBLISHED BY
+
+THE INSTITUTE OF PSYCHO-ANALYSIS
+and THE HOGARTH PRESS
+
+1. ADDRESSES ON PSYCHO-ANALYSIS. By J. J. PUTNAM, M.D., Emeritus
+   Professor of Neurology, Harvard University. With a Preface by
+   SIGMUND FREUD, M.D., LL.D. 12s. 6d.
+
+2. PSYCHO-ANALYSIS AND THE WAR NEUROSES. By Drs. S. FERENCZI
+   (Budapest), KARL ABRAHAM (Berlin), ERNST SIMMEL (Berlin), and
+   ERNEST JONES (London). Introduction by Professor FREUD
+   (Vienna). 5s.
+
+3. THE PSYCHO-ANALYTIC STUDY OF THE FAMILY. By J. C. FLÜGEL,
+   B.A. 10s. 6d.
+
+4. BEYOND THE PLEASURE PRINCIPLE. By SIGMUND FREUD, M.D.,
+   LL.D. Authorized Translation from the Second German Edition by
+   C. J. M. HUBBACK 6s.
+
+5. ESSAYS IN APPLIED PSYCHO-ANALYSIS. By ERNEST JONES, M.D., President
+   of the International Psycho-Analytical Association. 18s.
+
+6. GROUP PSYCHOLOGY AND THE ANALYSIS OF THE EGO. By SIGMUND FREUD,
+   M.D., LL.D. Authorized Translation from the German by JAMES
+   STRACHY. 7s. 6d.
+
+7. COLLECTED PAPERS. Vol. I. EARLY PAPERS AND HISTORY OF
+   PSYCHO-ANALYTICAL MOVEMENT. By SIGMUND FREUD. 21s.
+
+8. COLLECTED PAPERS. Vol. II. CLINICAL PAPERS. PAPERS ON
+   TECHNIQUE. By SIGMUND FREUD. 21s.
+
+9. COLLECTED PAPERS. Vol. III. CASE HISTORIES. By SIGMUND FREUD. 30s.
+
+10. COLLECTED PAPERS. Vol. IV. METAPSYCHOLOGY AND APPLIED
+    PSYCHO-ANALYSIS. By SIGMUND FREUD. 21s. Price of the complete set
+    (Nos. 7 to 10), 4 guineas.
+
+11. FURTHER CONTRIBUTIONS TO THE THEORY AND TECHNIQUE OF
+    PSYCHO-ANALYSIS. By S. FERENCZI. 28s.
+
+12. THE EGO AND THE ID. By SIGMUND FREUD. 6s.
+
+13. SELECTED PAPERS. By KARL ABRAHAM. (To appear shortly.)
 
 [^1]: *Beyond the Pleasure Principle*, London, 1922; translated from
     *Jenseits des Lustprinzips*, Vienna, 1920.
