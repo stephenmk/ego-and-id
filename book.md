@@ -482,7 +482,7 @@ does so to the extent to which the system Pcpt forms its surface, more
 or less as the germinal layer rests upon the ovum. The ego is not
 sharply separated from the id; its lower portion merges into it.
 
-![Fig. 1.](fig1.png)
+![Fig. 1.](images/fig1.png)
 
 But the repressed merges into the id as well, and is simply a part of
 it. The repressed is only cut off sharply from the ego by the
