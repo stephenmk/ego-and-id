@@ -1153,7 +1153,7 @@ In the present discussion, moreover, I am putting forward nothing but
 a supposition; I have no proof to offer. It seems a plausible view
 that this neutral displaceable energy, which is <!--p63-->probably
 active alike in the ego and in the id, proceeds from the narcissistic
-reservoir of libido, i.e. that it is desexualized Eros. (The erotic
+reservoir of libido, *i.e.* that it is desexualized Eros. (The erotic
 instincts appear to be altogether more plastic, more readily diverted
 and displaced than the destructive instincts.) From this we can easily
 go on to assume that this displaceable libido is employed in the
@@ -1238,7 +1238,7 @@ instincts, as expressed in instinctual needs. The id, guided by the
 pleasure-principle, that is, by the perception of ‘pain’, guards
 itself against these tensions in <!--p67-->various ways. It does so in
 the first place by complying as swiftly as possible with the demands
-of the non-desexualized libido, i.e. by striving for the gratification
+of the non-desexualized libido, *i.e.* by striving for the gratification
 of the directly sexual trends. But it does so further, and in a far
 more comprehensive fashion, in relation to one particular form of
 gratification which subsumes all component claims---that is, by
