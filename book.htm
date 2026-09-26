@@ -10,7 +10,7 @@
         body {
             margin: auto;
             max-width: 50em;
-            padding: 0 2em 1em 2em;
+            padding: 1em 2em;
         }
     }
   </style>
@@ -24,6 +24,9 @@
     figure > img {
         max-width: 50%;
     }
+    #logo > img {
+        max-width: 5em;
+    }
 
     .pagenum {
         position: absolute;
@@ -31,6 +34,16 @@
         font-size: smaller;
         text-align: right;
         text-indent: 0
+    }
+
+    .pub-year {
+        letter-spacing: 0.15em;
+        font-size: small;
+    }
+
+    .signature {
+        text-align: right;
+        margin-right: 5em;
     }
 
     .smcap {
@@ -47,11 +60,6 @@
     .center {
         text-align: center;
     }
-    .right {
-        text-align: right;
-        margin-right: 5em;
-    }
-
     .small {
         font-size: small;
     }
@@ -94,7 +102,7 @@
 <div class="center mb2">
   <div>THE INTERNATIONAL PSYCHO-ANALYTICAL LIBRARY</div>
   <div class="small">EDITED BY ERNEST JONES</div>
-  <div class="small mb2">No. 12.</div>
+  <div class="smcap small mb2">No. 12.</div>
 
   <div class="xxxlarge mb1">THE EGO AND THE ID</div>
 
@@ -105,11 +113,15 @@
   <div class="small">BY</div>
   <div class="mb2">JOAN RIVIERE</div>
 
+  <div id="logo" class="mb2">
+    <img alt="[Logo]" src="images/logo.png">
+  </div>
+
   <div class="large">
     <div>PUBLISHED BY LEONARD & VIRGINIA WOOLF AT THE</div>
     <div>HOGARTH PRESS, 52 TAVISTOCK SQUARE, LONDON, W.C.</div>
     <div>AND THE INSTITUTE OF PSYCHO-ANALYSIS</div>
-    <div class="small">MCMXXVII</div>
+    <div class="pub-year">MCMXXVII</div>
   </div>
 </div>
 
@@ -198,7 +210,7 @@ rendering the Author’s thoughts and intentions, this is almost
 wholly due to Mr.&nbsp;James Strachey’s sedulous and discriminating
 exertions in aid of clear elucidation of the text.</p>
 
-<p class="right">J. R.</p>
+<p class="signature">J. R.</p>
 
 <hr/>
 
@@ -650,7 +662,7 @@ upon the ovum. The ego is not sharply separated from the id; its
 lower portion merges into it.</p>
 
 <figure class="center">
-  <img src="fig1.png" alt="Fig. 1.">
+  <img src="images/fig1.png" alt="Fig. 1.">
   <figcaption class="smcap" aria-hidden="true">Fig. 1.</figcaption>
 </figure>
 
