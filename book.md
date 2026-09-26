@@ -903,7 +903,7 @@ necessity for overcoming the rivalry that then remained between the
 members of the younger generation. It seems that the male sex has
 taken the lead in developing all of these moral acquisitions; and that
 they have then been transmitted to women by cross-inheritance. Even
-to-day the social feelings arise in the individual as a superstructure
+today the social feelings arise in the individual as a superstructure
 founded upon impulses of jealousy and rivalry against his brothers and
 sisters. Since the enmity cannot be gratified there develops an
 identification with the former rival. The study of mild cases of
