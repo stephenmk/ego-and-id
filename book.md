@@ -131,7 +131,7 @@ consciousness is the essence of mental life, but is obliged to regard
 consciousness as one property of mental life, which may co-exist along
 with its other properties or may be absent.
 
-If I were to allow myself to suppose that every one interested in
+If I were to allow myself to suppose that everyone interested in
 psychology would read this book, I should still be prepared to find
 that some of <!--p10-->them would stop short even at this point and
 go no further; for here we have the first shibboleth of
