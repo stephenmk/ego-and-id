@@ -88,9 +88,6 @@
     li {
         margin-bottom: 1em;
     }
-    li.no-num {
-        list-style-type: none;
-    }
 
   </style>
 </head>
@@ -166,13 +163,22 @@
 <div class="mb2">
   <h2><span>CONTENTS</span></h2>
 
-  <ol id="toc" class="roman ml2 smcap" start="0">
-    <li class="no-num"><a href="#intro">Introduction</a></li>
-    <li><a href="#ch1">Conscious and the Unconscious</a></li>
-    <li><a href="#ch2">The Ego and the Id</a></li>
-    <li><a href="#ch3">The Ego and the Super-Ego (Ego-Ideal)</a></li>
-    <li><a href="#ch4">The Two Classes of Instincts</a></li>
-    <li><a href="#ch5">The Subordinate Relationships of the Ego</a></li>
+  <!-- The first item in the following list does not have an assigned
+       number. The rest of the items are numbered as uppercase Roman
+       numerals. There are a few different ways to achieve that effect
+       with HTML/CSS.
+
+       ePub doesn't seem to support <ol start="x"> or <li value="x">
+       attributes, so I've opted to set the list-style-type styles
+       manually. -->
+
+  <ol id="toc" class="ml2 smcap">
+    <li style="list-style-type: none;"><a href="#intro">Introduction</a></li>
+    <li style="list-style-type:   'I. ';"><a href="#ch1">Conscious and the Unconscious</a></li>
+    <li style="list-style-type:  'II. ';"><a href="#ch2">The Ego and the Id</a></li>
+    <li style="list-style-type: 'III. ';"><a href="#ch3">The Ego and the Super-Ego (Ego-Ideal)</a></li>
+    <li style="list-style-type:  'IV. ';"><a href="#ch4">The Two Classes of Instincts</a></li>
+    <li style="list-style-type:   'V. ';"><a href="#ch5">The Subordinate Relationships of the Ego</a></li>
   </ol>
 
 </div>
