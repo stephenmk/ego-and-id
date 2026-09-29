@@ -58,6 +58,7 @@
     .mb2 {
         margin-bottom: 2rem;
     }
+
     .ml2 {
         margin-left: 2rem;
     }
@@ -87,19 +88,8 @@
     li {
         margin-bottom: 1em;
     }
-
-    table {
-        margin: 0 auto;
-    }
-    #toc tr td:nth-child(1) {
-        text-align: right;
-    }
-    #toc tr td:nth-child(2) {
-        text-align: left;
-        font-variant: small-caps;
-    }
-    #toc tr td:nth-child(3) {
-        text-align: right;
+    li.no-num {
+        list-style-type: none;
     }
 
   </style>
@@ -173,50 +163,17 @@
 
 <!--pg5-->
 
-<div class="center mb2">
-  <h2>CONTENTS</h2>
+<div class="mb2">
+  <h2><span>CONTENTS</span></h2>
 
-  <table id="toc">
-    <thead>
-      <tr>
-        <th></th>
-        <th></th>
-        <th class="smcap small">Page</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td></td>
-        <td class="smcap">Introduction</td>
-        <td><a href="#Page_07">7</a></td>
-      </tr>
-      <tr>
-        <td>I.</td>
-        <td>Conscious and the Unconscious</td>
-        <td><a href="#Page_09">9</a></td>
-      </tr>
-      <tr>
-        <td>II.</td>
-        <td>The Ego and the Id</td>
-        <td><a href="#Page_19">19</a></td>
-      </tr>
-      <tr>
-        <td>III.</td>
-        <td>The Ego and the Super-Ego (Ego-Ideal)</td>
-        <td><a href="#Page_34">34</a></td>
-      </tr>
-      <tr>
-        <td>IV.</td>
-        <td>The Two Classes of Instincts</td>
-        <td><a href="#Page_54">54</a></td>
-      </tr>
-      <tr>
-        <td>V.</td>
-        <td>The Subordinate Relationships of the Ego</td>
-        <td><a href="#Page_68">68</a></td>
-      </tr>
-    </tbody>
-  </table>
+  <ol id="toc" class="roman ml2 smcap">
+    <li class="no-num"><a href="#intro">Introduction</a></li>
+    <li value="1"><a href="#ch1">Conscious and the Unconscious</a></li>
+    <li><a href="#ch2">The Ego and the Id</a></li>
+    <li><a href="#ch3">The Ego and the Super-Ego (Ego-Ideal)</a></li>
+    <li><a href="#ch4">The Two Classes of Instincts</a></li>
+    <li><a href="#ch5">The Subordinate Relationships of the Ego</a></li>
+  </ol>
 
 </div>
 
@@ -241,7 +198,7 @@ exertions in aid of clear elucidation of the text.</p>
 
 </div>
 
-<div>
+<div id="intro">
   <!--pg7-->
   <h2><span>INTRODUCTION</span></h2>
 
@@ -279,7 +236,7 @@ people.</p>
 
 </div>
 
-<div>
+<div id="ch1">
   <!--pg9-->
   <h2>
     <span>I</span>
@@ -465,7 +422,7 @@ of light that penetrates the obscurity of depth-psychology.</p>
 
 </div>
 
-<div>
+<div id="ch2">
   <!--pg19-->
   <h2>
     <span>II</span>
@@ -792,7 +749,7 @@ the conscious ego: that it is first and foremost a body-ego.</p>
 
 </div>
 
-<div>
+<div id="ch3">
   <!--pg34-->
   <h2>
     <span>III</span>
@@ -1216,7 +1173,7 @@ painting is being fought out in the sky.</p>
 
 </div>
 
-<div>
+<div id="ch4">
   <!--pg54-->
   <h2>
     <span>IV</span>
@@ -1528,7 +1485,7 @@ mastering the tensions.</p>
 
 </div>
 
-<div>
+<div id="ch5">
   <!--pg68-->
   <h2>
     <span>V</span>
